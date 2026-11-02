@@ -505,3 +505,5 @@ plt.show()
 ## CONCLUSION
 Thus, Linear Regression and other regression models were successfully applied for house price prediction, and their performance was compared using standard regression evaluation metrics.
 
+
+ 
